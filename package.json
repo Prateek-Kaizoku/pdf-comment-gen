@@ -19,5 +19,9 @@
     "pdf-lib": "^1.17.1",
     "pdfjs-dist": "^3.9.179",
     "yargs": "^17.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Prateek-Kaizoku/pdf-comment-gen.git"
   }
 }
