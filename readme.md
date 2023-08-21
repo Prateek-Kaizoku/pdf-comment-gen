@@ -1,8 +1,13 @@
 ---
+title: PDF Comment Generator
+author: Prateek
+date: 2023-08-21
+---
 
 # PDF Comment Generator (`PDF-comment-gen`)
 
 `PDF-comment-gen` is a Node.js utility designed to extract annotations from PDF files and provide the user with two output options:
+
 1. Generate a text file with the extracted annotations.
 2. Append the annotations to the end of the original PDF on a new page.
 
