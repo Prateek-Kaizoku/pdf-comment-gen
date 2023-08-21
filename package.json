@@ -12,7 +12,7 @@
     "stitch",
     "notes"
   ],
-  "author": "",
+  "author": "Prateek",
   "license": "ISC",
   "dependencies": {
     "fs": "^0.0.1-security",
