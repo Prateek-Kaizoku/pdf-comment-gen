@@ -4,7 +4,7 @@
 
 `PDF-comment-gen` is a Node.js utility designed to extract annotations from PDF files and provide the user with two output options:
 1. Generate a text file with the extracted annotations.
-2. Append the annotations to the end of the original PDF in a new page.
+2. Append the annotations to the end of the original PDF on a new page.
 
 ## Requirements
 
@@ -16,7 +16,7 @@
 - `pdfjs-dist`: For reading and extracting annotations from PDFs.
 - `pdf-lib`: For appending annotations to a PDF.
 
-To install all the required dependencies, run:
+To install all the required dependencies, run the following:
 
 ```bash
 npm install
