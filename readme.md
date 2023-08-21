@@ -49,5 +49,3 @@ node PDF-comment-gen.js file.pdf file_with_annotations.pdf pdf
 ```
 
 ---
-
-You can save the content above in a `README.md` file in the root directory of your project. Modify any details as necessary based on your project's specifics or any additional features you might add in the future.
